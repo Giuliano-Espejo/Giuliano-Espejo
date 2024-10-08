@@ -32,7 +32,7 @@
 ## 🌐 Conéctate conmigo
 
 - [LinkedIn](https://www.linkedin.com/in/giuliano-espejo-mezzabotta/)
-- [Correo Electrónico](espejogiuliano@gmail.com)
+- [Correo Electrónico](mailto:espejogiuliano@gmail.com)
 - [Portfolio](https://giuliano-espejo.vercel.app/)
 
 ---
