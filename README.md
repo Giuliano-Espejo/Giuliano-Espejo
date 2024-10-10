@@ -25,7 +25,7 @@
 - Repositorio: https://github.com/Giuliano-Espejo/Microservicios
 
 ### 3. El Buen Sabor
-- **Descripción:** Estoy desarrollando un sistema para gestionar un servicio de entrega de comida, que incluye la carga de productos y el manejo de pedidos.
+- **Descripción:** Participe del desarrollo de un sistema para gestionar un servicio de entrega de comida, que incluye la carga de productos y el manejo de pedidos como proyecto final de carrera.
 - **Tecnologías:** Java, Spring Boot, PostgreSQL, Cloudinary.
 - Repositorio: https://github.com/gonzaaherre/BuenSaborBack2
 
