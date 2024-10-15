@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="blob:https://lordicon.com/5318f716-2bd3-45e0-9d45-673af183ed4f">
-</p>
 # Giuliano Espejo
 
 ¡Hola! Soy Giuliano, un **Técnico Universitario en Programación** apasionado por el desarrollo de software. Tengo más de un año de experiencia trabajando con **Java** y **Spring**, y me encanta desarrollar soluciones innovadoras y eficientes.
