@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://lordicon.com/icons/wired/flat/1323-java-code-language">
+  <img src="blob:https://lordicon.com/5318f716-2bd3-45e0-9d45-673af183ed4f">
 </p>
 # Giuliano Espejo
 
