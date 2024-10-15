@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://lordicon.com/icons/wired/flat/1323-java-code-language">
+</p>
 # Giuliano Espejo
 
 ¡Hola! Soy Giuliano, un **Técnico Universitario en Programación** apasionado por el desarrollo de software. Tengo más de un año de experiencia trabajando con **Java** y **Spring**, y me encanta desarrollar soluciones innovadoras y eficientes.
