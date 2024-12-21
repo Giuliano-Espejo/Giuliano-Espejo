@@ -19,8 +19,8 @@
 - **Tecnologías:** Java, Spring Boot, WebSocket y React.
 - Repositorio: https://github.com/Giuliano-Espejo/trackPosition
 
-### 2. Microservicios para Gestión de Stock y Empleados
-- **Descripción:** Creé un sistema de microservicios para gestionar el stock y empleados de un negocio.
+### 2. Microservicios para Gestión de Cursos
+- **Descripción:** Creé un sistema de microservicios para gestionar cursos.
 - **Tecnologías:** Java, Spring Boot, PostgreSQL, Docker.
 - Repositorio: https://github.com/Giuliano-Espejo/Microservicios
 
